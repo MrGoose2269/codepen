@@ -1,0 +1,9 @@
+.navigation-wrapper > .center-column > .banner-image img {
+    width:216px;
+    height:100%;
+}
+
+.navigation-wrapper > .center-column > .banner-image img {
+    display: flex;
+    justify-content: center;
+}
