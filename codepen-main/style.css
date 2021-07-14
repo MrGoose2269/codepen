@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    background: #222;
+    color: white;
+    display:flex;
+}
+
+.navigation-wrapper {
+    width:100%;
+    display: flex;
+    justify-content: space-apart;
+}
+
+.left-column {
+    display: flex;
+    
+}
+
+.logo{
+  display:block;
+  max-width:210px;
+  max-height:47px;
+  width: auto;
+  height: auto;
+  
+}
+
+.center-column > nav > ul {
+    display: flex;
+}
+
+.nav-wrapper {
+  
+}
